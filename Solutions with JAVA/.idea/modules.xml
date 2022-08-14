@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2160_NomeNoFormulario/2160_NomeNoFormulario.iml" filepath="$PROJECT_DIR$/2160_NomeNoFormulario/2160_NomeNoFormulario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Area/Area.iml" filepath="$PROJECT_DIR$/Area/Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Area do Circulo/Area do Circulo.iml" filepath="$PROJECT_DIR$/Area do Circulo/Area do Circulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CPF1/CPF1.iml" filepath="$PROJECT_DIR$/CPF1/CPF1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculoSimples/CalculoSimples.iml" filepath="$PROJECT_DIR$/CalculoSimples/CalculoSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cedulas/Cedulas.iml" filepath="$PROJECT_DIR$/Cedulas/Cedulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combinador/Combinador.iml" filepath="$PROJECT_DIR$/Combinador/Combinador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrescimentoPopulacional/CrescimentoPopulacional.iml" filepath="$PROJECT_DIR$/CrescimentoPopulacional/CrescimentoPopulacional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtremamenteBasico/ExtremamenteBasico.iml" filepath="$PROJECT_DIR$/ExtremamenteBasico/ExtremamenteBasico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Figurinhas/Figurinhas.iml" filepath="$PROJECT_DIR$/Figurinhas/Figurinhas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrequenciaDeLetras/FrequenciaDeLetras.iml" filepath="$PROJECT_DIR$/FrequenciaDeLetras/FrequenciaDeLetras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lavanderia/Lavanderia.iml" filepath="$PROJECT_DIR$/Lavanderia/Lavanderia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopMusical/LoopMusical.iml" filepath="$PROJECT_DIR$/LoopMusical/LoopMusical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Media3/Media3.iml" filepath="$PROJECT_DIR$/Media3/Media3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mes/Mes.iml" filepath="$PROJECT_DIR$/Mes/Mes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notas&amp;Moedas/Notas&amp;Moedas.iml" filepath="$PROJECT_DIR$/Notas&amp;Moedas/Notas&amp;Moedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prefacio/Prefacio.iml" filepath="$PROJECT_DIR$/Prefacio/Prefacio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SequenciaDeNumerosESoma/SequenciaDeNumerosESoma.iml" filepath="$PROJECT_DIR$/SequenciaDeNumerosESoma/SequenciaDeNumerosESoma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Solutions with JAVA.iml" filepath="$PROJECT_DIR$/.idea/Solutions with JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomadePropina/SomadePropina.iml" filepath="$PROJECT_DIR$/SomadePropina/SomadePropina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TempoDeJogoComMinutos/TempoDeJogoComMinutos.iml" filepath="$PROJECT_DIR$/TempoDeJogoComMinutos/TempoDeJogoComMinutos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tipo de Combutivel/Tipo de Combutivel.iml" filepath="$PROJECT_DIR$/Tipo de Combutivel/Tipo de Combutivel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposDeTriangulos/TiposDeTriangulos.iml" filepath="$PROJECT_DIR$/TiposDeTriangulos/TiposDeTriangulos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UltrapassandoZ/UltrapassandoZ.iml" filepath="$PROJECT_DIR$/UltrapassandoZ/UltrapassandoZ.iml" />
+    </modules>
+  </component>
+</project>

@@ -3,6 +3,8 @@
 --- www.urionlinejudge.com.br
 --- Problem 2603
 
+use desafios
+
 CREATE TABLE customers (
   id NUMERIC PRIMARY KEY,
   name CHARACTER VARYING (255),
@@ -20,5 +22,8 @@ VALUES
   (4,	'Jane Ester',	'Av 7 de setembro',	'Erechim',	'RS',	800.00),
   (5,	'Marcos Antônio dos Santos',	'Av Farrapos',	'Porto Alegre',	'RS',	4250.25);
   
-  /*  Execute this query to drop the tables */
-  -- DROP TABLE customers; --
+  select c.name, c.street
+  from customers c
+  where(c.city='Porto Alegre');
+
+  select * from customers

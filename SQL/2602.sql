@@ -26,6 +26,10 @@ VALUES
     from customers c
     where (c.state='RS');
 
+	select c.name, c.street
+	from customers c
+	where(c.city='Porto Alegre');
+
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE customers; --

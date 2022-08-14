@@ -3,6 +3,10 @@
 --- www.urionlinejudge.com.br
 --- Problem 2604
 
+create database desafio_2604
+
+use desafio_2604
+
 CREATE TABLE products (
   id NUMERIC PRIMARY KEY,
   name CHARACTER VARYING (255),
@@ -19,5 +23,6 @@ VALUES
   (5,	'Chair',	3000,	210.64),
   (6,	'Single bed',	750,	99);
   
-  /*  Execute this query to drop the tables */
-  -- DROP TABLE products; --
+select p.id, p.name
+from products p
+where(p.price<10 or p.price>100);

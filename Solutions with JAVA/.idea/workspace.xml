@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5859a350-2b01-41fa-bbc7-cde77e32a480" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../SQL/2602.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/2602.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/2603.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/2603.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/2604.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SQL/2604.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area do Circulo/Area do Circulo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area/Area.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPF1/CPF1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculoSimples/CalculoSimples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cedulas/Cedulas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Combinador/Combinador.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrescimentoPopulacional/CrescimentoPopulacional.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtremamenteBasico/ExtremamenteBasico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figurinhas/Figurinhas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrequenciaDeLetras/FrequenciaDeLetras.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lavanderia/Lavanderia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopMusical/LoopMusical.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Media3/Media3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mes/Mes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notas&amp;Moedas/Notas&amp;Moedas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prefacio/Prefacio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SequenciaDeNumerosESoma/SequenciaDeNumerosESoma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SomadePropina/SomadePropina.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TempoDeJogoComMinutos/TempoDeJogoComMinutos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tipo de Combutivel/Tipo de Combutivel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TiposDeTriangulos/TiposDeTriangulos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltrapassandoZ/UltrapassandoZ.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2DIINBRuZX8xV0ZT2rdmh203ouA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5859a350-2b01-41fa-bbc7-cde77e32a480" name="Changes" comment="" />
+      <created>1660380133776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660380133776</updated>
+    </task>
+    <servers />
+  </component>
+</project>
